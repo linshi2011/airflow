@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/airbnb/airflow/badge.svg?service=github)](https://coveralls.io/github/airbnb/airflow)
 [![pypi downloads](https://img.shields.io/pypi/dm/airflow.svg)](https://pypi.python.org/pypi/airflow/)
 
-Airflow is a platform to programmatically author, schedule and monitor
+Airflow[czp] is a platform to programmatically author, schedule and monitor
 workflows.
 
 When workflows are defined as code, they become more maintainable,
